@@ -15,8 +15,8 @@ void app_main(void){
 
 	while(1){
 		gpio_set_level(BLINK_LED, 1);
-		vTaskDelay(pdMS_TO_TICKS(200));
+		vTaskDelay(pdMS_TO_TICKS(100));
 		gpio_set_level(BLINK_LED, 0);
-		vTaskDelay(pdMS_TO_TICKS(200));
+		vTaskDelay(pdMS_TO_TICKS(100));
 	}
 }
