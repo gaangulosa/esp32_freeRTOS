@@ -1,0 +1,12 @@
+[0/1] Re-running CMake...
+-- IDF_TARGET not set, using default target: esp32
+-- Found Git: /usr/bin/git (found version "2.25.1") 
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Project is not inside a git repository, or git repository has no commits; will not use 'git describe' to determine PROJECT_VER.
+-- Building ESP-IDF components for target esp32
+-- Project sdkconfig file /home/gaangulosa/programming/c_programming/esp32_projects/blink-led/main/sdkconfig
+-- Configuring incomplete, errors occurred!
+See also "/home/gaangulosa/programming/c_programming/esp32_projects/blink-led/main/build/CMakeFiles/CMakeOutput.log".
+FAILED: build.ninja 
+/usr/bin/cmake -S/home/gaangulosa/programming/c_programming/esp32_projects/blink-led/main -B/home/gaangulosa/programming/c_programming/esp32_projects/blink-led/main/build

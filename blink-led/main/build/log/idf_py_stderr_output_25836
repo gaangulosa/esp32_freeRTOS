@@ -1,0 +1,11 @@
+CMake Error at /home/gaangulosa/esp/esp-idf/components/xtensa/project_include.cmake:3 (message):
+  Internal error, toolchain has not been set correctly by project (or an
+  invalid CMakeCache.txt file has been generated somehow)
+Call Stack (most recent call first):
+  /home/gaangulosa/esp/esp-idf/tools/cmake/build.cmake:380 (include)
+  /home/gaangulosa/esp/esp-idf/tools/cmake/build.cmake:599 (__build_process_project_includes)
+  /home/gaangulosa/esp/esp-idf/tools/cmake/project.cmake:440 (idf_build_process)
+  CMakeLists.txt:6 (project)
+
+
+ninja: error: rebuilding 'build.ninja': subcommand failed

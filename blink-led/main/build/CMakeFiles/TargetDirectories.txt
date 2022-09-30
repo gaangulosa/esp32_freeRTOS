@@ -1,0 +1,2 @@
+/home/gaangulosa/programming/c_programming/esp32_projects/blink-led/main/build/CMakeFiles/rebuild_cache.dir
+/home/gaangulosa/programming/c_programming/esp32_projects/blink-led/main/build/CMakeFiles/edit_cache.dir
